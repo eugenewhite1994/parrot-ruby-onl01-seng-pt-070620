@@ -1,10 +1,10 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot("Prety Bird!") 
+def parrot(bird) 
   "Bird!"
   puts "Squawk!"
   return "Pretty Bird!"
 end
 
-parrot
+parrot("Pretty Bird!")
