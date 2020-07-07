@@ -3,8 +3,3 @@
 
 def parrot 
   "Squawk!"
-  puts "Parrots"
-  return "Squawk!"
-  end
-
-parrot("Pretty bird!")
