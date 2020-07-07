@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot 
-  return "Pretty Bird!"
+  return "Squawk!"
 end
 
 parrot
