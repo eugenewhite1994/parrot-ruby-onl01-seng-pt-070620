@@ -3,6 +3,6 @@
 
 def parrot 
   puts "Squawk!"
-  return "No parrots"
+  "Parrots"
 end
 parrot
