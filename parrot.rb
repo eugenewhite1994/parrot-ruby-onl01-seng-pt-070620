@@ -5,4 +5,4 @@ def parrot
   "Parrots"
   puts "Squawk!"
 end
-parrot
+parrot("Pretty Bird")
