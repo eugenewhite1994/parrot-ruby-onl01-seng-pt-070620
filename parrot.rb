@@ -7,4 +7,4 @@ def parrot
   return "Pretty Bird!"
 end
 
-parrot
+parrot("Pretty Bird")
